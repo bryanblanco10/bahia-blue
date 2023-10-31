@@ -1,0 +1,39 @@
+{
+	"carousels": [
+		{
+			"image": "/images/slider1.jpg",
+			"title": "Bienevenidos a Bahia Azul",
+			"subtitle": "Un paraíso en la Tierra te espera en nuestro hotel a orillas de la playa."
+		},
+		{
+			"image": "/images/slider2.jpg",
+			"title": "Ven y descubre el encanto del océano",
+			"subtitle": "Despierta cada día con vistas al horizonte infinito y el susurro de las olas en nuestro hotel junto a la playa."
+		},
+		{
+			"image": "/images/slider3.jpg",
+			"title": "Un rincón de tranquilidad a la orilla del mar",
+			"subtitle": "Nuestro hotel te brinda la oportunidad de disfrutar del sol, la arena y el mar en un entorno de lujo inigualable."
+		},
+		{
+			"image": "/images/slider4.jpg",
+			"title": "Ven y crea recuerdos inolvidables!",
+			"subtitle": "En nuestro hotel, cada día es una aventura en la playa."
+		},
+		{
+			"image": "/images/slider5.jpg",
+			"title": "¡Tu escapada perfecta te espera!",
+			"subtitle": "Relájate al son del mar en nuestro acogedor refugio playero."
+		},
+		{
+			"image": "/images/slider6.jpg",
+			"title": "¡Ven y vive la vida junto al océano!",
+			"subtitle": "En nuestro hotel, cada día es una postal de la playa."
+		},
+		{
+			"image": "/images/slider7.jpg",
+			"title": "¡Ven y sumérgete en la belleza del mar!",
+			"subtitle": "Experimenta la magia de la playa desde la comodidad de nuestro hotel."
+		}
+	]
+}
