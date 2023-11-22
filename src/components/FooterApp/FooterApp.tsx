@@ -22,7 +22,7 @@ export const FooterApp = () => {
 					</Typography>
 					<div className='flex gap-4 text-blue-gray-900 sm:justify-center order-1 md:order-2 mb-4 md:mb-0'>
 						<a
-							href={`${3012583963}&text=Hola,%20quiero%20reservar%20un%20alojamiento`}
+							href={`https://api.whatsapp.com/send?phone=${573012583963}&text=Hola,%20quiero%20reservar%20un%20alojamiento`}
 							target='_blank'
 							rel='noopener noreferrer'
 						>
